@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mutuall ioyes of the king, Parliament, and subjects. Wherein is contained the removall of their grievances; according to their petitions in that behalfe: the Parliaments gratuity to the Commons for their indulgent care of the kingdome. As also the resolution of the House of Commons assembled in Parliament, concerning bishops, and repulsing of innovations by them reduced into the church. VVith a true relation of a sudden mutiny arising amongst the rebels in Ireland, at Bravers in the county of Munster, wherein Serjeant Major Oneale was sore hurt, Captaine Sartwel, Captaine King, and Capt. Carley, with divers officers, and 300. men slaine. Written and avowed by Richard Newrobe, Cleric.</title>
+            <author>Newrobe, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90071</idno>
+            <idno type="STC">Wing N944</idno>
+            <idno type="STC">Thomason E135_24</idno>
+            <idno type="STC">ESTC R18516</idno>
+            <idno type="EEBO-CITATION">99860417</idno>
+            <idno type="PROQUEST">99860417</idno>
+            <idno type="VID">156443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156443)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E135[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mutuall ioyes of the king, Parliament, and subjects. Wherein is contained the removall of their grievances; according to their petitions in that behalfe: the Parliaments gratuity to the Commons for their indulgent care of the kingdome. As also the resolution of the House of Commons assembled in Parliament, concerning bishops, and repulsing of innovations by them reduced into the church. VVith a true relation of a sudden mutiny arising amongst the rebels in Ireland, at Bravers in the county of Munster, wherein Serjeant Major Oneale was sore hurt, Captaine Sartwel, Captaine King, and Capt. Carley, with divers officers, and 300. men slaine. Written and avowed by Richard Newrobe, Cleric.</title>
+                  <author>Newrobe, Richard.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Howell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Munster (Ireland) --  History --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156443:1"/>
+            <pb facs="tcp:156443:1" rendition="simple:additions"/>
+            <p>THE MVTVALL IOYES OF THE KING, PAR<g ref="char:EOLhyphen"/>liament, and Subjects.</p>
+            <p>Wherein is contained the removall of their grie<g ref="char:EOLhyphen"/>vances, according to their petitions in that behalfe: The Parliaments gratuity to the Commons for their indulgent care of the<g ref="char:cmbAbbrStroke">̄</g> Kingdome.</p>
+            <p>As alſo the reſolution of the Houſe of Commons aſſembled in Parliament, concer<g ref="char:EOLhyphen"/>ning Biſhops, and repulſing of innovations by them reduced into the Church.</p>
+            <p>VVith a true relation of a ſudden mutiny ariſing amongſt the rebels in Ireland, at <hi>Bravers</hi> in the County of Munſter, wherein Serjeant Major <hi>Oneale</hi> was ſore hurt, Captaine <hi>Sartwel,</hi> Captaine <hi>King,</hi> and Capt. <hi>Carley,</hi> with di<g ref="char:EOLhyphen"/>vers Officers, and 300. men ſlaine.</p>
+            <p>Written and avowed by <hi>Richard Newrobe, Cleric.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Howell.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156443:2"/>
+            <pb facs="tcp:156443:2"/>
+            <head>The mutuall joyes of the King, Parliament, and Subjects.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſadneſſe and diſaſterouſneſſe of the times, the continuall harſh tone of invective perſons, and the preſent diſtreſſes of all men, have a long time looked for, ho<g ref="char:EOLhyphen"/>ped and expected a removall of theſe our grievances, being often begunne, but more often hindred, there never ſpringing one good and profitable herbe in this garden of England, but there as ſuddenly ariſes ma<g ref="char:EOLhyphen"/>ny twining weeds to choake it; ſith that our diſ<g ref="char:EOLhyphen"/>conſolate cares have beene ſo invoked to provide for reſiſtance of theſe evils, how welcome and ac<g ref="char:EOLhyphen"/>ceptable would the newes of a remedy be, the City that hath ſo long beene troubled, frighted, and perturbed with civill commotions, and inexpreſ<g ref="char:EOLhyphen"/>ſible dangers, how would it ſhew forth the garlands of good will, the plumes of peace, and enſigne of loyalty upon ſo happy an alteration? How would the Proteſtant rejoyce, and bee as it were involved in gladneſſe, to ſee the Papiſts and their ſchiſmati<g ref="char:EOLhyphen"/>call
+<pb facs="tcp:156443:3"/>adherents either converted or aſhamed, when as Church government might bee reſpected, and God praiſed, for love, and not for feare. Such is the newes I now relate, ſo happy, as it goes beyond ex<g ref="char:EOLhyphen"/>preſſion to nominate it, and as reall as it ſeemes hap<g ref="char:EOLhyphen"/>py. Long have theſe our griefes beene multiply<g ref="char:EOLhyphen"/>ed by his Majeſties diſagreeing with the Parliament by the perſwaſions of ſome who were but ſeeming wel wiſhers to the State: to change theſe occaſions of ſorrow into a happy eſtate, his Majeſty hath been ſince graciouſly pleaſed to unite himſelfe with them for the ſetling of a perfect peace, expreſſing him<g ref="char:EOLhyphen"/>ſelfe as followeth.</p>
+            <p>That whereas the perturbance of the times had proved grievous and burdenſome unto him, in re<g ref="char:EOLhyphen"/>ſpect of the quotidiall commotions ariſing through his non-reſidence with them at London, his Maje<g ref="char:EOLhyphen"/>ſty was reſolved for a ſpeedy returne: as alſo that his hopes of and concerning the gracious meſſage ſent the twentieth of Ianuary laſt paſt, ſhould have produced ſome ſuch effect, as by offering what was fit on their parts to doe, as alſo for his Majeſty to grant, might beget a mutuall confidence in each o<g ref="char:EOLhyphen"/>ther, his Majeſty therefore deſired that theſe his good hopes might not be fruſtrated, and ſo his en<g ref="char:EOLhyphen"/>deavours prove to no purpoſe, but rather that they would with ſedulous diligence labour to ſtrengthen and corroborate, then any way to debilitate or weaken the ſame reciprocall conjunction or mutu<g ref="char:EOLhyphen"/>all laborious cooperation. And for as much as this his Majeſties Kingdome of England was very much diſtreſſed, and in continuall feare, in reſpect
+<pb facs="tcp:156443:3"/>that the Ports and chiefe fortreſſes towards the ſea coaſts were unfortified, and ſo not able to make re<g ref="char:EOLhyphen"/>ſiſtance againſt any invaſion, they having mani<g ref="char:EOLhyphen"/>feſted as much unto his Majeſty, hee deſired that they would ſpeedily ſet about and expeditiouſly contrive a remedy, and he in that as in all other rea<g ref="char:EOLhyphen"/>ſonable motions (as far as it might ſtand with his honour) would immutually joine in aſſiſtance to<g ref="char:EOLhyphen"/>wards the rectifying of the ſame.</p>
+            <p>As for the Petitions of ſeverall Counties delive<g ref="char:EOLhyphen"/>red to the Parliament for the reliefe of theſe and other ſuch like grievances of this Kingdome, moſt eſpecially concerning the grounds of Proteſtant Religion which hath been abuſed and little ſet by ſince the Biſhops introducing and bringing in of Papiſticall ceremonies, which ſticks much in the conſciences of many, nay all true Proteſtants, his Majeſty was graciouſly pleaſed to deſire and im<g ref="char:EOLhyphen"/>portune a reformation of the ſame, thereby to gain his ſubjects love, and procure the perpetuall peace of his Kingdome.</p>
+            <p>It was the refore ordered by the Houſe of Com<g ref="char:EOLhyphen"/>mons as concerning <hi>Wren</hi> and the other Biſhops whom they had ſearched and found deep delin<g ref="char:EOLhyphen"/>quents in and againſt the benefit of the State, that ſeeing they were found guilty, and the matter of ſo high conſequence (concerning their cenſure) they being the Metropolitans of the Church, and principall Clergy of the Kingdome, that they ſhould be delivered over to the upper Houſe to re<g ref="char:EOLhyphen"/>ceive ſentence fro<g ref="char:cmbAbbrStroke">̄</g>m them as concerning their miſ<g ref="char:EOLhyphen"/>demeanours, whereupon they reſolved a ſpeedy
+<pb facs="tcp:156443:4"/>concluſion; the Parliament highly applauding and commending the Communalty of the ſeverall Counties petitioning them unto for their indul<g ref="char:EOLhyphen"/>gent care for the preſervation and ſafety of his Majeſties Royall perſon, Realmes and Parliamen<g ref="char:EOLhyphen"/>tary proceedings, who with the fervency of zeale, and affection regreeted them with all humility gi<g ref="char:EOLhyphen"/>ving them moſt humble thankes for their obſequi<g ref="char:EOLhyphen"/>ous care of ſuch as they were, who accounted themſelves but as their vaſſalls that were ready to ſpend both life, limbe, eſtate, liberty, and what not to ſhew their reſpectfull obeiſance to ſuch an honourable Aſſembly.</p>
+            <div type="part">
+               <head>A true Relation of a ſuddaine muteny ariſing amongſt the rebells in Ireland at Bravers within the Province of Munſter, wherein Sergeant Major <hi>Oneale</hi> was ſore hurt, Captaine <hi>Redmond Sartwell,</hi> Captain <hi>Thurlough King,</hi> Captain <hi>Car<g ref="char:EOLhyphen"/>ley,</hi> with divers Officers, and <hi>300.</hi> ſouldiers ſlaine.</head>
+               <head type="sub">As alſo their flight from thence upon the comming of Captaine <hi>Pollard</hi> and ſome Scotch regements a<g ref="char:EOLhyphen"/>gainſt them, with the loſſe of the Towne, and all their ammunition to our Engliſh forces.</head>
+               <p>VPon the firſt of February <hi>Anno Dom.</hi> 2642. the Rebells having lately apprehended ſom eigh<g ref="char:EOLhyphen"/>teene Proteſtants in the towne of Oggerſney in the County of Munſter carried them before the Lord <hi>Corton</hi> who was choſen Lieutenant Generall of
+<pb facs="tcp:156443:4"/>their horſe to be examined as concerning their Re<g ref="char:EOLhyphen"/>ligion, which they boldly averred to be the Prote<g ref="char:EOLhyphen"/>ſtant faith, in which they reſolved to live and dye, whereupon they were forthwith committed to priſon, where they lay in a dungeon, enduring great miſery through the abuſe of the ſouldiery that de<g ref="char:EOLhyphen"/>lighted in nothing more then in tormenting them; the principall of all theſe Proteſtants was Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Pellam</hi> who had a ſonne in law (being a recu<g ref="char:EOLhyphen"/>ſant) eldeſt Captaine of a horſe troope in the re<g ref="char:EOLhyphen"/>giment belonging to the Lord <hi>Autrim,</hi> who very earneſtly deſired of the Lord <hi>Corton, Oneale,</hi> and the reſidue of the councell of warre, ſitting about that occaſion that he might ſtand as baile for his fathers appearance, moving it with ſuch zeale and earneſt <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction towards his father, that he had al<g ref="char:EOLhyphen"/>moſt obtained his requeſt, untill that one <hi>Dennis Carley</hi> Sergeant Major to the ſaid regiment and Captaine <hi>Carley</hi> his nephew, with divers other e<g ref="char:EOLhyphen"/>nemies to the Proteſtants, perſwaded the contrary, alledging that being an enemy to their Religion and preſent proceeding, it might be a meanes to his eſcape, and the other his ſonne who pleaded for him likewiſe, who ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wed very little affection to the Church of Rome to plead ſo much for a here<g ref="char:EOLhyphen"/>ticke, though he had beene his owne father, there<g ref="char:EOLhyphen"/>fore they deſired that he might likewiſe be exami<g ref="char:EOLhyphen"/>ned unleſſe he might be one of their confederacy, which they did, but nothing being found wherein that to condemne him, nevertheleſſe he was ſen<g ref="char:EOLhyphen"/>tenced to be committed to cloſe priſon, which the ſouldiers underſtanding of whom hee was very
+<pb facs="tcp:156443:5"/>much beloved, and conſidering the injuſtice of the cauſe came with one conſent upon the councell of warre, and <hi>per fas aut nefas</hi> delivered him, withall falling into ſuch an abrupt mutiny, being inſtiga<g ref="char:EOLhyphen"/>ted and egged forward by Captaine <hi>Bolte,</hi> whom they had freed, who was eager of revenge on his enemies, that they deſperately hurt <hi>Oneale,</hi> ſlew both the <hi>Carleyes,</hi> Captaine <hi>Sartwel</hi> and Captaine <hi>King</hi> their companions, &amp; three hundred ſouldiers: hee in the meane time getting through the preſſe, gave intelligence to Captaine <hi>Pollard</hi> commanding a company of Scots, who with others came to the towne, upon the intelligence of whoſe approach the Rebells fled, notwithſtanding they ſpared not to vent their ſpleene upon the poore Proteſtants, whom they maſſacred and cut all to peeces, leaving in the towne through haſte and feare of being o<g ref="char:EOLhyphen"/>vertaken the moſt part of their armes, three ſmall field peeces with their carriages, ten wagons with ammunition, as alſo the traice horſes to draw them, which proved the ſpoile to the Scotch Pro<g ref="char:EOLhyphen"/>teſtants.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
